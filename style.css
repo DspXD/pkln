@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    border: 1px solid;
+    padding: 10%;
+    color: white;
+}
+th, td {
+    border: 1px solid;
+    widht: 50%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    border:2px solid;
+    color:#e380ff;
+}
+table {
+    width: 50%; 
+    color: white;
+}
+body{
+    background-image:url(shinji.jpeg);
+}
+.tablecontainer{
+    margin:10%;
+    padding:10%;
+}
+.header{
+    background-color: #e380ff;
+    widht: 100px;
+    height: 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+a{
+    text-align: center;
+    color: white;
+    font-family: Times New Roam;
+    font-size: 9px;
+    padding: 2px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+h1 {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
